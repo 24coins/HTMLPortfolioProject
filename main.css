@@ -1,3 +1,10 @@
+.content-wrapper {
+    line-height: 1.4;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 10px 25px;
+}
+
 .header {
     align-items: center;
     background-color: #000080;
@@ -15,10 +22,4 @@
     padding: 0 20px;
     position: relative;
     text-align: center;
-}
-.content-wrapper {
-    line-height: 1.4;
-    margin: 0 auto;
-    max-width: 900px;
-    padding: 10px 25px;
 }
